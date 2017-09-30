@@ -41,7 +41,7 @@
 
 	
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] Temporada 1 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] Temporada 2 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -52,7 +52,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/Cuspide/allo-allo-t1-83631</page>
+<page>http://diskokosmiko.mx/Cuspide/allo-allo-t2-83632</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -70,7 +70,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/Cuspide/allo-allo-t1-83631</referer>
+<referer>http://diskokosmiko.mx/Cuspide/allo-allo-t2-83632</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -80,7 +80,7 @@
 
 	
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] Temporada 1 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] Temporada 3 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -91,7 +91,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/Cuspide/allo-allo-t1-83631</page>
+<page>http://diskokosmiko.mx/Cuspide/allo-allo-t3-83633</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -109,7 +109,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/Cuspide/allo-allo-t1-83631</referer>
+<referer>http://diskokosmiko.mx/Cuspide/allo-allo-t3-83633</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -119,7 +119,7 @@
 
 	
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] Temporada 1 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] Temporada 4 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -130,7 +130,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/Cuspide/allo-allo-t1-83631</page>
+<page>http://diskokosmiko.mx/Cuspide/allo-allo-t4-83634</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -148,7 +148,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/Cuspide/allo-allo-t1-83631</referer>
+<referer>http://diskokosmiko.mx/Cuspide/allo-allo-t4-83634</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>

@@ -91,7 +91,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<page>http://diskokosmiko.mx/anime1/alf-t3-25539/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -109,7 +109,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer></referer>
+<referer>http://diskokosmiko.mx/anime1/alf-t3-25539/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -130,7 +130,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<page>http://diskokosmiko.mx/Cuspide/alf-t4-47099/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -148,7 +148,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer></referer>
+<referer>http://diskokosmiko.mx/Cuspide/alf-t4-47099/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>

@@ -13,7 +13,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MSRJ/aquellos-maravillosos-70-1998-2006-75791/list,1,9</page>
+<page>http://diskokosmiko.mx/trivianita/aquellos-maravillosos-anos-completa-83030/list,1,5</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -31,7 +31,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MSRJ/aquellos-maravillosos-70-1998-2006-75791/list,1,9</referer>
+<referer>http://diskokosmiko.mx/trivianita/aquellos-maravillosos-anos-completa-83030/list,1,5</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>

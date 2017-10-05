@@ -1311,7 +1311,7 @@
 
 
 <item>
-<title>•  Scorpion T1-T2-T3  • </title>
+<title>  Scorpion T1-T2-T3   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1351,7 +1351,7 @@
 
 
 <item>
-<title>•  Bluebloods T1  • </title>
+<title>  Bluebloods T1   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1390,7 +1390,7 @@
 
 
 <item>
-<title>•  Bluebloods T2  • </title>
+<title>  Bluebloods T2   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1429,7 +1429,7 @@
 
 
 <item>
-<title>•  Bluebloods T3  • </title>
+<title>  Bluebloods T3   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1468,7 +1468,7 @@
 
 
 <item>
-<title>•  Bluebloods T4  • </title>
+<title>  Bluebloods T4   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1507,7 +1507,7 @@
 
 
 <item>
-<title>•  Gran hotel  • </title>
+<title>  Gran hotel   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1548,7 +1548,7 @@
 
 
 <item>
-<title>•  Narcos  • </title>
+<title>  Narcos   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1588,7 +1588,7 @@
 
 
 <item>
-<title>• Mr Bean  • </title>
+<title> Mr Bean   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1626,7 +1626,7 @@
 </item>
 
 <item>
-<title>• Rin Tin Tin (1954) • </title>
+<title> Rin Tin Tin (1954)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1664,7 +1664,7 @@
 </item>
 
 <item>
-<title> Fama (1982) • </title>
+<title> Fama (1982)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1702,7 +1702,7 @@
 </item>
 
 <item>
-<title>• La Saga de los Rius (1976) • </title>
+<title> La Saga de los Rius (1976)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1740,7 +1740,7 @@
 </item>
 
 <item>
-<title>• Caravana (Wagon Train) (1957) • </title>
+<title> Caravana (Wagon Train) (1957)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1778,7 +1778,7 @@
 </item>
 
 <item>
-<title>• Vientos de Guerra (1983) • </title>
+<title> Vientos de Guerra (1983)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1816,7 +1816,7 @@
 </item>
 
 <item>
-<title>• La Conquista del Oeste (1976) • </title>
+<title> La Conquista del Oeste (1976)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1854,7 +1854,7 @@
 </item>
 
 <item>
-<title>• Los Hombres de Smiley (1982) • </title>
+<title> Los Hombres de Smiley (1982)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1892,7 +1892,7 @@
 </item>
 
 <item>
-<title>• Calderero Sastre Soldado Espia (1979) • </title>
+<title> Calderero Sastre Soldado Espia (1979)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1930,7 +1930,7 @@
 </item>
 
 <item>
-<title>• Cheers  • </title>
+<title> Cheers   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -1968,7 +1968,7 @@
 </item>
 
 <item>
-<title> • El Zorro  • </title>
+<title>  El Zorro   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2006,7 +2006,7 @@
 </item>
 
 <item>
-<title>• Los Invencibles de Nemesis  • </title>
+<title> Los Invencibles de Nemesis   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2044,7 +2044,7 @@
 </item>
 
 <item>
-<title>• Curro Jimenez  • </title>
+<title> Curro Jimenez   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2082,7 +2082,7 @@
 </item>
 
 <item>
-<title>• Kojak  • </title>
+<title> Kojak   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2120,7 +2120,7 @@
 </item>
 
 <item>
-<title>• El Gran Heroe Americano  • </title>
+<title> El Gran Heroe Americano   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2158,7 +2158,7 @@
 </item>
 
 <item>
-<title>• Colombo  • </title>
+<title> Colombo   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2196,7 +2196,7 @@
 </item>
 
 <item>
-<title>• Se ha Escrito un Crimen  • </title>
+<title> Se ha Escrito un Crimen   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2234,7 +2234,7 @@
 </item>
 
 <item>
-<title>• El Equipo A  • </title>
+<title> El Equipo A   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2272,7 +2272,7 @@
 </item>
 
 <item>
-<title>• Manos A La Obra  • </title>
+<title> Manos A La Obra   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2310,7 +2310,7 @@
 </item>
 
 <item>
-<title>• V  • </title>
+<title> V   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2348,7 +2348,7 @@
 </item>
 
 <item>
-<title>• Magnum; p.i  • </title>
+<title> Magnum; p.i   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2386,7 +2386,7 @@
 </item>
 
 <item>
-<title>• 90210 Beverly Hills  • </title>
+<title> 90210 Beverly Hills   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2424,7 +2424,7 @@
 </item>
 
 <item>
-<title>• Melrose Place  • </title>
+<title> Melrose Place   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2467,7 +2467,7 @@
 
 
 <item>
-<title>• Alf  • </title>
+<title> Alf   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2510,7 +2510,7 @@
 
 
 <item>
-<title>• Aupista Hacia el Cielo  • </title>
+<title> Aupista Hacia el Cielo   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2550,7 +2550,7 @@
 
 
 <item>
-<title>• Macgyver Antiguo • </title>
+<title> Macgyver Antiguo  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2588,7 +2588,7 @@
 </item>
 
 <item>
-<title>• Twin Peaks  • </title>
+<title> Twin Peaks   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2628,7 +2628,7 @@
 
 
 <item>
-<title>• Verano Azul  • </title>
+<title> Verano Azul   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2668,7 +2668,7 @@
 
 
 <item>
-<title>• El Increible Hulk (latino)  • </title>
+<title> El Increible Hulk (latino)   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2706,7 +2706,7 @@
 </item>
 
 <item>
-<title>• Embrujada  • </title>
+<title> Embrujada   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2744,7 +2744,7 @@
 </item>
 
 <item>
-<title>• Farmacia de Guardia  • </title>
+<title> Farmacia de Guardia   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2782,7 +2782,7 @@
 </item>
 
 <item>
-<title>• Doctor Who  • </title>
+<title> Doctor Who   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2820,7 +2820,7 @@
 </item>
 
 <item>
-<title>• La Familia Adams  • </title>
+<title> La Familia Adams   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2860,7 +2860,7 @@
 
 
 <item>
-<title>• Stargate SG1  • </title>
+<title> Stargate SG1   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2898,7 +2898,7 @@
 </item>
 
 <item>
-<title>• Un Paso Adelante  • </title>
+<title> Un Paso Adelante   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2938,7 +2938,7 @@
 
 
 <item>
-<title>• 7 Vidas  • </title>
+<title> 7 Vidas   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -2976,7 +2976,7 @@
 </item>
 
 <item>
-<title>• Bonanza  • </title>
+<title> Bonanza   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3014,7 +3014,7 @@
 </item>
 
 <item>
-<title>• El Fugitivo  • </title>
+<title> El Fugitivo   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3052,7 +3052,7 @@
 </item>
 
 <item>
-<title>• Walker Ranger Texas  • </title>
+<title> Walker Ranger Texas   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3090,7 +3090,7 @@
 </item>
 
 <item>
-<title>• La Casa de los Lios  • </title>
+<title> La Casa de los Lios   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3128,7 +3128,7 @@
 </item>
 
 <item>
-<title>• Los Problemas Crecen  • </title>
+<title> Los Problemas Crecen   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3166,7 +3166,7 @@
 </item>
 
 <item>
-<title>• Cuentame Como Paso  • </title>
+<title> Cuentame Como Paso   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3207,7 +3207,7 @@
 
 
 <item>
-<title> • La Dimension Desconocida (Multi ES,CA,IN)  • </title>
+<title>  La Dimension Desconocida (Multi ES,CA,IN)   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3246,7 +3246,7 @@
 
 
 <item>
-<title>• Las Chicas de Oro  • </title>
+<title> Las Chicas de Oro   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3286,7 +3286,7 @@
 
 
 <item>
-<title>• El Gran Chaparral  • </title>
+<title> El Gran Chaparral   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3324,7 +3324,7 @@
 </item>
 
 <item>
-<title>• Los Roper  • </title>
+<title> Los Roper   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3362,7 +3362,7 @@
 </item>
 
 <item>
-<title>• Frasier  • </title>
+<title> Frasier   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3400,7 +3400,7 @@
 </item>
 
 <item>
-<title>• MakiNavaja  • </title>
+<title> MakiNavaja   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3438,7 +3438,7 @@
 </item>
 
 <item>
-<title>• La Fuga de Colditz  • </title>
+<title> La Fuga de Colditz   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3476,7 +3476,7 @@
 </item>
 
 <item>
-<title>• Las Calles De san Francisco  • </title>
+<title> Las Calles De san Francisco   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3515,7 +3515,7 @@
 
 
 <item>
-<title>• Hawaii 5.0.  • </title>
+<title> Hawaii 5.0.   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3553,7 +3553,7 @@
 </item>
 
 <item>
-<title>• Un hombre en Casa  • </title>
+<title> Un hombre en Casa   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3591,7 +3591,7 @@
 </item>
 
 <item>
-<title>• Ley y Orden  • </title>
+<title> Ley y Orden   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3631,7 +3631,7 @@
 
 
 <item>
-<title>• Combat  • </title>
+<title> Combat   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3669,7 +3669,7 @@
 </item>
 
 <item>
-<title>• Doctor Mateo  • </title>
+<title> Doctor Mateo   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3707,7 +3707,7 @@
 </item>
 
 <item>
-<title>• Cañas y Barro  • </title>
+<title> Cañas y Barro   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3745,7 +3745,7 @@
 </item>
 
 <item>
-<title>• Lou Grant  • </title>
+<title> Lou Grant   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3783,7 +3783,7 @@
 </item>
 
 <item>
-<title>• Arriba y Abajo  • </title>
+<title> Arriba y Abajo   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3821,7 +3821,7 @@
 </item>
 
 <item>
-<title>• Chips  • </title>
+<title> Chips   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3861,7 +3861,7 @@
 
 
 <item>
-<title>• La Conquista del Oeste  • </title>
+<title> La Conquista del Oeste   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3900,7 +3900,7 @@
 </item>
 
 <item>
-<title>• Doce del Patibulo (Incompleta)  • </title>
+<title> Doce del Patibulo (Incompleta)   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3939,7 +3939,7 @@
 </item>
 
 <item>
-<title>• La Ley de los Angeles  • </title>
+<title> La Ley de los Angeles   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -3980,7 +3980,7 @@
 
 
 <item>
-<title>• La Isla de Gilligam  • </title>
+<title> La Isla de Gilligam   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4021,7 +4021,7 @@
 
 
 <item>
-<title>• Tierra de Gigantes  • </title>
+<title> Tierra de Gigantes   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4060,7 +4060,7 @@
 </item>
 
 <item>
-<title>• Jackass  • </title>
+<title> Jackass   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4099,7 +4099,7 @@
 </item>
 
 <item>
-<title>• The Shield Al margen de la ley (2002)  • </title>
+<title> The Shield Al margen de la ley (2002)   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4138,7 +4138,7 @@
 </item>
 
 <item>
-<title>• El Gran Circo de TVE  • </title>
+<title> El Gran Circo de TVE   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4177,7 +4177,7 @@
 </item>
 
 <item>
-<title>• Renegado  • </title>
+<title> Renegado   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4218,7 +4218,7 @@
 
 
 <item>
-<title>• La Barraca (1979)</title>
+<title> La Barraca (1979)</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4256,7 +4256,7 @@
 </item>
 
 <item>
-<title>• Teresa de Jesus (1984) • </title>
+<title> Teresa de Jesus (1984)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4294,7 +4294,7 @@
 </item>
 
 <item>
-<title>• Ramon y Cajal (1982) • </title>
+<title> Ramon y Cajal (1982)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4332,7 +4332,7 @@
 </item>
 
 <item>
-<title>• Proceso a Mariana Pineda (1984) • </title>
+<title> Proceso a Mariana Pineda (1984)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4370,7 +4370,7 @@
 </item>
 
 <item>
-<title>• Los Pazos de Ulloa (1985) • </title>
+<title> Los Pazos de Ulloa (1985)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4408,7 +4408,7 @@
 </item>
 
 <item>
-<title>• Los Gozos y las Sombras (1981) • </title>
+<title> Los Gozos y las Sombras (1981)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4446,7 +4446,7 @@
 </item>
 
 <item>
-<title>• Juncal (1989) • </title>
+<title> Juncal (1989)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4484,7 +4484,7 @@
 </item>
 
 <item>
-<title>• La Forja de un rebelde(1990) • </title>
+<title> La Forja de un rebelde(1990)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4522,7 +4522,7 @@
 </item>
 
 <item>
-<title>• Fortunata y Jacinta (1980) • </title>
+<title> Fortunata y Jacinta (1980)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4560,7 +4560,7 @@
 </item>
 
 <item>
-<title>• Lorca Muerte de un Poeta (1987) • </title>
+<title> Lorca Muerte de un Poeta (1987)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4598,7 +4598,7 @@
 </item>
 
 <item>
-<title>• La Regenta (1995) • </title>
+<title> La Regenta (1995)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4636,7 +4636,7 @@
 </item>
 
 <item>
-<title>• Green Hornet  • </title>
+<title> Green Hornet   </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4677,7 +4677,7 @@
 
 
 <item>
-<title>• Calderero Sastre Soldado Espia (1979) • </title>
+<title> Calderero Sastre Soldado Espia (1979)  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4716,7 +4716,7 @@
 
 
 <item>
-<title>• Los hombre harrelson T2 • </title>
+<title> Los hombre harrelson T2  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4755,7 +4755,7 @@
 
 
 <item>
-<title>• Los hombre harrelson T1 • </title>
+<title> Los hombre harrelson T1  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4794,7 +4794,7 @@
 
 
 <item>
-<title>• Hawai 5.0 T1 actual • </title>
+<title> Hawai 5.0 T1 actual  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4833,7 +4833,7 @@
 
 
 <item>
-<title>• Hawai 5.0 T2 actual • </title>
+<title> Hawai 5.0 T2 actual  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4871,7 +4871,7 @@
 </item>
 
 <item>
-<title>• Hawai 5.0 T3 actual • </title>
+<title> Hawai 5.0 T3 actual  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4909,7 +4909,7 @@
 </item>
 
 <item>
-<title>• Hawai 5.0 T4 actual • </title>
+<title> Hawai 5.0 T4 actual  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4947,7 +4947,7 @@
 </item>
 
 <item>
-<title>• Hawai 5.0 T5 actual • </title>
+<title> Hawai 5.0 T5 actual  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -4986,7 +4986,7 @@
 
 
 <item>
-<title>• Hawai 5.0 T6 actual • </title>
+<title> Hawai 5.0 T6 actual  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -5025,7 +5025,7 @@
 
 
 <item>
-<title>• HouseT1-T2-T3-T4 • </title>
+<title> HouseT1-T2-T3-T4  </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>

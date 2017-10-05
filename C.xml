@@ -129,16 +129,6 @@ La canción de la cabecera, "Where Everybody Knows Your Name" también se hizo m
  
 
 
-<item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] Clase media [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/Clase%20media.xml</externallink>	
-<info>La serie pretende ser un reflejo de la España rural de principios del siglo XX (1904-1905), a través de los avatares de la familia Requejo, cuyo cabeza de familia, Isidoro (Antonio Ferrandis), se ve expulsado de su pueblo por las presiones de los caciques.</info>
-</item> 
-
-
 
 <item> 
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] Colombo [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
@@ -298,8 +288,9 @@ Serie de TV de 138 episodios (1996-2001). Para invadir la Tierra, una raza de ex
 <info></info>
 </item> 
 
+</thumbnail><info>
 
-
+</info>
 
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] Temporada 1 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>

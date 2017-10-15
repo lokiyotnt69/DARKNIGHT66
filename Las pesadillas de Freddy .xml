@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 	
-	
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] Temporadas completas  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -14,7 +13,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/lokario1/las-aventuras-del-joven-indiana-jones-12197</page>
+<page>http://diskokosmiko.mx/trivianita/las-pesadillas-de-freddy-serie-completa-67180/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -32,7 +31,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/lokario1/las-aventuras-del-joven-indiana-jones-12197</referer>
+<referer>http://diskokosmiko.mx/trivianita/las-pesadillas-de-freddy-serie-completa-67180/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>

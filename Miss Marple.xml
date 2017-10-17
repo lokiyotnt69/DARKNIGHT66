@@ -13,7 +13,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/FLAYSINA/serie-mi-bella-genio-t-1-2-3-4-5-serie-completa-34472/list,2,6</page>
+<page>http://diskokosmiko.mx/naredo/miss-marple-serie-1984-64709</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -31,7 +31,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/FLAYSINA/serie-mi-bella-genio-t-1-2-3-4-5-serie-completa-34472/list,2,6</referer>
+<referer>http://diskokosmiko.mx/naredo/miss-marple-serie-1984-64709</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>

@@ -156,24 +156,15 @@
 
 
 <item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] Q[/COLOR][COLOR yellow]_**_[/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] Q [/COLOR][COLOR yellow]_**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/Q.xml</externallink>	
 </item> 
 
 <item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] R[/COLOR][COLOR yellow]_**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
-
-
-<item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] S[/COLOR][COLOR yellow]_**_[/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] R [/COLOR][COLOR yellow]_**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -182,7 +173,7 @@
 
 
 <item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] T[/COLOR][COLOR yellow]_**_[/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] S [/COLOR][COLOR yellow]_**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -191,7 +182,16 @@
 
 
 <item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] U[/COLOR][COLOR yellow]_**_[/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] T [/COLOR][COLOR yellow]_**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] U [/COLOR][COLOR yellow]_**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>

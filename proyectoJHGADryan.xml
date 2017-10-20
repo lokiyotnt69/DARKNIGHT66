@@ -7,7 +7,7 @@
  <name>makelist2</name>
  <listrepeat><![CDATA[
 <title>[B][makelist2.param1] [/B] [COLOR aquamarine] Genero:[makelist2.param3]  Calidad:[makelist2.param4]  Año:[makelist2.param5]  [/COLOR]</title>
-<link>$doregex[geturl]</link>
+<link>$doregex[getUrl]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/$doregex[imagen]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[Pname:\"(.*?)\"urlid:\"(.*?)\"genero:\"(.*?)\"calidad:\"(.*?)\"year:\"(.*?)\"id:\"(.*?)\"]]></expres>
@@ -77,7 +77,7 @@
  <name>makelist2</name>
  <listrepeat><![CDATA[
 <title>[B][makelist2.param1] [/B] [COLOR aquamarine] Calidad:[makelist2.param3]  Año:[makelist2.param4]  [/COLOR]</title>
-<link>$doregex[geturl]</link>
+<link>$doregex[getUrl]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/$doregex[imagen]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[Pname:\"(.*?)\"urlid:\"(.*?)\"genero:\"$doregex[select]\"calidad:\"(.*?)\"year:\"(.*?)\"id:\"(.*?)\"]]></expres>
@@ -144,7 +144,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <name>makelist2</name>
  <listrepeat><![CDATA[
 <title>[B][makelist2.param1] [/B] [COLOR aquamarine] Genero:[makelist2.param3] Año:[makelist2.param4]  [/COLOR]</title>
-<link>$doregex[geturl]</link>
+<link>$doregex[getUrl]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/$doregex[imagen]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[Pname:\"(.*?)\"urlid:\"(.*?)\"genero:\"(.*?)\"calidad:\"$doregex[select]\"year:\"(.*?)\"id:\"(.*?)\"]]></expres>
@@ -211,7 +211,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <name>makelist2</name>
  <listrepeat><![CDATA[
 <title>[B][makelist2.param1] [/B] [COLOR aquamarine] Genero:[makelist2.param3] Calidad:[makelist2.param4]  [/COLOR]</title>
-<link>$doregex[geturl]</link>
+<link>$doregex[getUrl]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/$doregex[imagen]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[Pname:\"(.*?)\"urlid:\"(.*?)\"genero:\"(.*?)\"calidad:\"(.*?)\"year:\"$doregex[select]\"id:\"(.*?)\"]]></expres>

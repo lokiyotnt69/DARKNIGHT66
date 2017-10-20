@@ -26,8 +26,7 @@ Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Accion"calidad:"DVDRIP"year
 Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Infantil"calidad:"DVDRIP"year:"2016"id:"tt1469304"
 Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Aventura"calidad:"DVDRIP"year:"2016"id:"tt1469304"
 Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Terror"calidad:"DVDRIP"year:"2016"id:"tt1469304"
-Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Drama"calidad:"DVDRIP"year:"2016"id:"tt1469304"
-
+Pname:"Comando"urlid:"1450957"genero:"Accion"calidad:"DVDRIP"year:"2016"id:"tt0088944"
 
 
 

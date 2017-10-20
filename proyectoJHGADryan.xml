@@ -167,8 +167,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('Elige tu Audio preferido ', ['HD', 'DVDRIP','CAM'])
-   lists = ['HD', 'DVDRIP','CAM']
+   ret = dialog.select('Elige tu Audio preferido ', ['HD', 'DVDRIP','CAM''SD'])
+   lists = ['HD', 'DVDRIP','CAM''SD']
    return lists[ret]
 ]]></expres>
 <page></page>

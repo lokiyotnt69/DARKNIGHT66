@@ -10,10 +10,11 @@ Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Drama"calidad:"DVDRIP"year:
 Pname:"Xxx Reactived"urlid:"1530735"genero:"Accion"calidad:"DVDRIP"year:"2017"id:"tt1293847"
 Pname:"Descontroladas"urlid:"1360453"genero:"Comedia"calidad:"DVDRIP"year:"2017"id:"tt2334871"
 Pname:"El Templo"urlid:"1240103"genero:"Accion"calidad:"DVDRIP"year:"2017"id:"tt4557208"
-
 Pname:"Gru mi villano favorito"urlid:"1371714"genero:"Comedia"calidad:"DVDRIP"year:"2017"id:"1240103"
-Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Terror"calidad:"DVDRIP"year:"2017"id:"tt1469304"
-Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Drama"calidad:"DVDRIP"year:"2017"id:"tt1469304"
+
+
+Pname:"Logan"urlid:"1056001"genero:"Accion"calidad:"DVDRIP"year:"2017"id:"tt3315342"
+Pname:"Fast & Furious 8"urlid:"929838"genero:"Accion"calidad:"DVDRIP"year:"2017"id:"tt4630562"
 
 Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Comedia"calidad:"CAM"year:"2017"id:"tt1469304"
 Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Accion"calidad:"CAM"year:"2017"id:"tt1469304"
@@ -22,4 +23,4 @@ Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Aventura"calidad:"CAM"year:
 Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Terror"calidad:"CAM"year:"2017"id:"tt1469304"
 Pname:"Guardianes de la Playa"urlid:"1424484"genero:"Drama"calidad:"CAM"year:"2017"id:"tt1469304"
 
-http://diskokosmiko.mx/trivianita/estrenos-de-cine-2017-65743/el-templo-2017-hdripwesley-snipes-anne-heche-dave-annable-gene-simmons,1240103,list,1,2.mp4
+

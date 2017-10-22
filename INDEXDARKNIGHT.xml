@@ -72,11 +72,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA  [/COLOR][COLOR skyblue] SERIES [/COLOR]</title>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA  [/COLOR][COLOR skyblue] SERIES RETRO [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/Tn99cKV.jpg</thumbnail> 
 <fanart>https://i.imgur.com/Tn99cKV.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/baseretroordenado.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/SERIES/baseseries.xml</externallink>	
 </item>
 
 
@@ -99,7 +99,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA [/COLOR][COLOR skyblue] LATINA [/COLOR]</title>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA [/COLOR][COLOR skyblue] SERIES [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail> 
 <fanart></fanart>

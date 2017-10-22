@@ -128,7 +128,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail>
+<thumbnail>https://i.imgur.com/BUVXoZa.jpg</thumbnail>
 </item>
 
 
@@ -168,8 +168,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('Elige tu Audio preferido ', ['HD', 'DVDRIP','CAM''SD'])
-   lists = ['HD', 'DVDRIP','CAM''SD']
+   ret = dialog.select('Elige tu Audio preferido ', ['HD', 'DVDRIP','CAM','SD'])
+   lists = ['HD', 'DVDRIP','CAM','SD']
    return lists[ret]
 ]]></expres>
 <page></page>

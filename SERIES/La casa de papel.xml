@@ -12,8 +12,8 @@
 <fanart></fanart>
 <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres>http://diskokosmiko.mx/lokario1/la-casa-de-los-lios-14277/list,1,6<![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page></page>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/la-casa-de-papel-temp-1-2-68063</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -31,7 +31,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/lokario1/la-casa-de-los-lios-14277/list,1,6</referer>
+<referer>http://diskokosmiko.mx/trivianita/la-casa-de-papel-temp-1-2-68063</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>

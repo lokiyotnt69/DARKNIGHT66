@@ -104,7 +104,9 @@
 <title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] Shooter: El tirador [/COLOR][COLOR yellow]_**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://www.moovielive.com/TvShowPhoto/coverart/2017/2017-07-27/big_season_en_us_4402480.jpg</thumbnail>
-<fanart>https://www.moovielive.com/TvShowPhoto/coverart/2017/2017-07-27/big_season_en_us_4402480.jpg</fanart>
+<fanart>https://www.moovielive.com/TvShowPhoto/coverart/2017/2017-07-27/big_season_en_us_4402480.jpg
+
+</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/SERIES/ShooterEl%20tirador.xml</externallink>	
 </item> 
 
@@ -216,13 +218,6 @@
 <externallink></externallink>	
 </item> 
 
-<item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] Stag [/COLOR][COLOR yellow]_**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
 
 <item> 
 <title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] Star Trek:Discovery [/COLOR][COLOR yellow]_**_[/COLOR]</title>
@@ -271,6 +266,7 @@
 <fanart></fanart>
 <externallink></externallink>	
 </item> 
+
 
 <item> 
 <title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] Sucesor designado [/COLOR][COLOR yellow]_**_[/COLOR]</title>

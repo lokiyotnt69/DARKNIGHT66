@@ -82,7 +82,7 @@
 
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 
-<pagel>https://www.youtube.com/channel/UCQTGHhyi9iURgMaJk4mUqpQ</page>
+<page>https://www.youtube.com/channel/UCQTGHhyi9iURgMaJk4mUqpQ</page>
 
 </regex>  
 
@@ -113,7 +113,7 @@
 
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 
-<page>https://www.youtube.com/user/PLjr_J_DQd6zccQTlLNoaWJjdOIbMNgQdM</page>
+<page>https://www.youtube.com/channel/PLjr_J_DQd6zccQTlLNoaWJjdOIbMNgQdM</page>
 
 </regex>  
 
@@ -141,7 +141,7 @@
 
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 
-<page>https://www.youtube.com/user/LouieEspanol</page>
+<page>https://www.youtube.com/channel/LouieEspanol</page>
 
 </regex>  
 

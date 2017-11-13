@@ -115,7 +115,33 @@
 
 
 
+<item>
 
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] ATENCION ATENCION[/COLOR][COLOR yellow]_**_[/COLOR] </title>
+
+<link>$doregex[makelist]</link>
+
+<regex><name>makelist</name>
+
+<listrepeat><![CDATA[  
+
+<title>[makelist.param1]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+
+]]></listrepeat>
+
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+
+<page>https://www.youtube.com/user/AtencionAtencionSapo</page>
+
+</regex>  
+
+<thumbnail></thumbnail>
+
+</item>
 
 
 <item>
@@ -168,7 +194,7 @@
 
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 
-<page>https://www.youtube.com/user/UCeTdhZLFZEfpHgJ-GAEV-WQ</page>
+<page>https://www.youtube.com/watch?v=Tex3_x3pb7E</page>
 
 </regex>  
 
@@ -198,13 +224,14 @@
 
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 
-<page>https://www.youtube.com/user/UCCzR0RTeFKJr-kcwADUlSnw</page>
+<page>https://www.youtube.com/watch?v=XtPeWPwGeLw</page>
 
 </regex>  
 
 <thumbnail>http://www.soloimagen.net/public/dibujosanimados/character3_top1.jpg</thumbnail>
 
 </item>
+
 
 
 
@@ -467,30 +494,4 @@
 </item>
 
 
-<item>
 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] TT[/COLOR][COLOR yellow]_**_[/COLOR] </title>
-
-<link>$doregex[makelist]</link>
-
-<regex><name>makelist</name>
-
-<listrepeat><![CDATA[  
-
-<title>[makelist.param1]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-
-]]></listrepeat>
-
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-
-<page>https://www.youtube.com/user/AtencionAtencionSapo</page>
-
-</regex>  
-
-<thumbnail></thumbnail>
-
-</item>

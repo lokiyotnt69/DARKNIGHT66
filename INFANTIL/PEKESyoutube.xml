@@ -82,7 +82,7 @@
 
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 
-<page>https://www.youtube.com/user/UCQTGHhyi9iURgMaJk4mUqpQ</page>
+<pagel>https://www.youtube.com/channel/UCQTGHhyi9iURgMaJk4mUqpQ</page>
 
 </regex>  
 

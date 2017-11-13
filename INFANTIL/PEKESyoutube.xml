@@ -93,27 +93,6 @@
 
 
 
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ATENCION ATENCION [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                          <title>[COLOR lime] LIVE MUSIC[/COLOR][COLOR white]——[makelist.param1][/COLOR]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                       <thumbnail>http://zetaestaticos.com/leon/img/noticias/0/086/86998_1.jpg</thumbnail>
-    <fanart>http://imag.elepe.com/t11/dos_orillas_la_nueva_version_de_antonio_orozco_11240.jpg</fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=5lZ5jwNIbm4&amp;list=PLeC3KXKbXai5nLfjLi3pVVLIeg58ZaqH5</page>
-             <cookieJar></cookieJar>
-</regex>
- 
- <thumbnail></thumbnail>
-    <fanart></fanart>
-</item> 
-
-
 
 <item>
 

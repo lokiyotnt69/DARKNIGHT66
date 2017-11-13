@@ -183,7 +183,7 @@ https://www.youtube.com/user/UCVIXxMQ51drJmg9Hj-tXAfg
 
 <item>
 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] [/COLOR][COLOR yellow]_**_[/COLOR] </title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] Caillou [/COLOR][COLOR yellow]_**_[/COLOR] </title>
 
 <link>$doregex[makelist]</link>
 
@@ -201,13 +201,184 @@ https://www.youtube.com/user/UCVIXxMQ51drJmg9Hj-tXAfg
 
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 
-<page>https://www.youtube.com/user/</page>
+<page>https://www.youtube.com/user/UCCzR0RTeFKJr-kcwADUlSnw</page>
 
 </regex>  
 
 <thumbnail></thumbnail>
 
 </item>
+
+<item>
+
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] CHUCHUTV [/COLOR][COLOR yellow]_**_[/COLOR] </title>
+
+<link>$doregex[makelist]</link>
+
+<regex><name>makelist</name>
+
+<listrepeat><![CDATA[  
+
+<title>[makelist.param1]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+
+]]></listrepeat>
+
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+
+<page>https://www.youtube.com/user/UCBbsyG0o_cWlyY46ZRSdYJg</page>
+
+</regex>  
+
+<thumbnail></thumbnail>
+
+</item>
+
+<item>
+
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] CUENTOS INFANTILES [/COLOR][COLOR yellow]_**_[/COLOR] </title>
+
+<link>$doregex[makelist]</link>
+
+<regex><name>makelist</name>
+
+<listrepeat><![CDATA[  
+
+<title>[makelist.param1]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+
+]]></listrepeat>
+
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+
+<page>https://www.youtube.com/user/UCjgRtV0zjOfsCP0_i3DjA8A</page>
+
+</regex>  
+
+<thumbnail></thumbnail>
+
+</item>
+
+<item>
+
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] EL REINO A JUGAR [/COLOR][COLOR yellow]_**_[/COLOR] </title>
+
+<link>$doregex[makelist]</link>
+
+<regex><name>makelist</name>
+
+<listrepeat><![CDATA[  
+
+<title>[makelist.param1]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+
+]]></listrepeat>
+
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+
+<page>https://www.youtube.com/user/UCsm77kEHBDEPgD4Ir3jSRYg</page>
+
+</regex>  
+
+<thumbnail></thumbnail>
+
+</item>
+
+<item>
+
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] EL REINO INFANTIL [/COLOR][COLOR yellow]_**_[/COLOR] </title>
+
+<link>$doregex[makelist]</link>
+
+<regex><name>makelist</name>
+
+<listrepeat><![CDATA[  
+
+<title>[makelist.param1]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+
+]]></listrepeat>
+
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+
+<page>https://www.youtube.com/user/PLjr_J_DQd6zfQEFSL3yn4Lcg5tXuR3mOC</page>
+
+</regex>  
+
+<thumbnail></thumbnail>
+
+</item>
+
+
+<item>
+
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] FAmilia Telerín [/COLOR][COLOR yellow]_**_[/COLOR] </title>
+
+<link>$doregex[makelist]</link>
+
+<regex><name>makelist</name>
+
+<listrepeat><![CDATA[  
+
+<title>[makelist.param1]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+
+]]></listrepeat>
+
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+
+<page>https://www.youtube.com/user/UChlTeveFUK6bvHrmCb8J99w</page>
+
+</regex>  
+
+<thumbnail></thumbnail>
+
+</item>
+
+
+<item>
+
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] LAS CANCIONES DEL ZOO [/COLOR][COLOR yellow]_**_[/COLOR] </title>
+
+<link>$doregex[makelist]</link>
+
+<regex><name>makelist</name>
+
+<listrepeat><![CDATA[  
+
+<title>[makelist.param1]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+
+]]></listrepeat>
+
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+
+<page>https://www.youtube.com/user/cancionesdelzoo</page>
+
+</regex>  
+
+<thumbnail></thumbnail>
+
+</item>
+
 
 <item>
 
@@ -237,89 +408,6 @@ https://www.youtube.com/user/UCVIXxMQ51drJmg9Hj-tXAfg
 
 </item>
 
-<item>
-
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] [/COLOR][COLOR yellow]_**_[/COLOR] </title>
-
-<link>$doregex[makelist]</link>
-
-<regex><name>makelist</name>
-
-<listrepeat><![CDATA[  
-
-<title>[makelist.param1]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-
-]]></listrepeat>
-
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-
-<page>https://www.youtube.com/user/</page>
-
-</regex>  
-
-<thumbnail></thumbnail>
-
-</item>
-
-<item>
-
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] [/COLOR][COLOR yellow]_**_[/COLOR] </title>
-
-<link>$doregex[makelist]</link>
-
-<regex><name>makelist</name>
-
-<listrepeat><![CDATA[  
-
-<title>[makelist.param1]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-
-]]></listrepeat>
-
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-
-<page>https://www.youtube.com/user/</page>
-
-</regex>  
-
-<thumbnail></thumbnail>
-
-</item>
-
-<item>
-
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] [/COLOR][COLOR yellow]_**_[/COLOR] </title>
-
-<link>$doregex[makelist]</link>
-
-<regex><name>makelist</name>
-
-<listrepeat><![CDATA[  
-
-<title>[makelist.param1]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-
-]]></listrepeat>
-
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-
-<page>https://www.youtube.com/user/</page>
-
-</regex>  
-
-<thumbnail></thumbnail>
-
-</item>
 
 <item>
 
@@ -352,7 +440,7 @@ https://www.youtube.com/user/UCVIXxMQ51drJmg9Hj-tXAfg
 
 <item>
 
-<title>** </title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] [/COLOR][COLOR yellow]_**_[/COLOR] </title>
 
 <link>$doregex[makelist]</link>
 
@@ -379,67 +467,9 @@ https://www.youtube.com/user/UCVIXxMQ51drJmg9Hj-tXAfg
 </item>
 
 
-
-
 <item>
 
-<title>** </title>
-
-<link>$doregex[makelist]</link>
-
-<regex><name>makelist</name>
-
-<listrepeat><![CDATA[  
-
-<title>[makelist.param1]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-
-]]></listrepeat>
-
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-
-<page>https://www.youtube.com/user/</page>
-
-</regex>  
-
-<thumbnail></thumbnail>
-
-</item>
-
-<item>
-
-<title>** </title>
-
-<link>$doregex[makelist]</link>
-
-<regex><name>makelist</name>
-
-<listrepeat><![CDATA[  
-
-<title>[makelist.param1]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-
-]]></listrepeat>
-
-<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-
-<page>https://www.youtube.com/user/</page>
-
-</regex>  
-
-<thumbnail></thumbnail>
-
-</item>
-
-<item>
-
-<title>** </title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] [/COLOR][COLOR yellow]_**_[/COLOR] </title>
 
 <link>$doregex[makelist]</link>
 

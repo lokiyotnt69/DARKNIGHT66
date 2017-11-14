@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
+<SetViewMode>500</SetViewMode>
 <item> 
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue]  TOP ACTORES DE ACCION  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -111,21 +111,3 @@
 </item>
 
 
-<item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue]   [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-<info></info>
-</item> 
-
-
-<item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue]   [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-<info></info>
-</item> 

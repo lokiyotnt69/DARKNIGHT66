@@ -34,23 +34,15 @@
 
 
 
-
 <item>
-<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA  [/COLOR][COLOR skyblue] Pruebas [/COLOR]</title>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA  [/COLOR][COLOR skyblue] VIP [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail> 
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/1.xml</externallink>	
+<thumbnail>https://i.imgur.com/bO9U1wK.jpg</thumbnail> 
+<fanart>https://i.imgur.com/bO9U1wK.jpg</fanart>
+<externallink></externallink>	
 </item>
 
 
-<item>
-<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA [/COLOR][COLOR skyblue] futuro addon cine... ** [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/lT76bTn.jpg</thumbnail> 
-<fanart>https://i.imgur.com/lT76bTn.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/proyectoJHGADryan.xml</externallink>	
-</item>
 
 
 <item>
@@ -59,4 +51,14 @@
 <thumbnail></thumbnail> 
 <fanart></fanart>
 <externallink></externallink>	
+</item>
+
+<!-------------------------------------
+
+<item>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA [/COLOR][COLOR skyblue] futuro addon cine... ** [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/lT76bTn.jpg</thumbnail> 
+<fanart>https://i.imgur.com/lT76bTn.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/proyectoJHGADryan.xml</externallink>	
 </item>

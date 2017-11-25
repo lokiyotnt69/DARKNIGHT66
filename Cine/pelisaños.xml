@@ -3,7 +3,43 @@
 
 
 
-
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PELICULAS DE TERROR(*) [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/juan-hinojosa-garcia/peliculas-terror-95026</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/juan-hinojosa-garcia/peliculas-terror-95026</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
 
 
 
@@ -23,7 +59,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/YSAGB/oeste-western-66018</page>
+<page>http://diskokosmiko.mx/frankiepentangelli/cine-western-66007/list,1,20</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -41,7 +77,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/YSAGB/oeste-western-66018</referer>
+<referer>http://diskokosmiko.mx/frankiepentangelli/cine-western-66007/list,1,20</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -182,7 +218,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/belicas-20003/list,1,11</page>
+<page>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/list,1,9</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -200,7 +236,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/naredo/belicas-20003/list,1,11</referer>
+<referer>http://diskokosmiko.mx/frankiepentangelli/cine-belico-36809/list,1,9</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>

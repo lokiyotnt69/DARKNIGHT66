@@ -14,7 +14,7 @@
 <thumbnail>https://www.thetvdb.com/banners/posters/[makelist2.param7]-1.jpg</thumbnail>
 ]]></listrepeat>
 <expres>Name:(.*?)\|\surl:(.*?)\|\sFecha:(.*?)\|\sClase:(.*?)\|\sIdioma:(.*?)\|\sTemporada:(.*?)\|\sid:(.*?)\|</expres>
-<page></page>
+<page>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/PRUEBAS/VIP.txt</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>

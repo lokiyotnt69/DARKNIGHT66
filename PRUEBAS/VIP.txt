@@ -1,5 +1,5 @@
 Name:American Gothic | url:http://diskokosmiko.mx/SeriesHD/american-gothic-t1-43083| Fecha:2017| Clase:serie| Idioma:Castellano| Temporada:Temporada 1| id:309053|
-Name:Walking Dead| url:http://diskokosmiko.mx/juan-hinojosa-garcia/the-walking-dead-temporada-8-94829| Fecha:2017| Clase:serie| Idioma:Castellano| Temporada:Temporada 8| id:290853|
+Name:Walking Dead| url:http://diskokosmiko.mx/marcos20/the-walking-dead-8-90435| Fecha:2017| Clase:serie| Idioma:Castellano| Temporada:Temporada 8| id:	153021|
 Name:| url:| Fecha:2017| Clase:serie| Idioma:Castellano| Temporada:Temporada 1| id:|
 Name:| url:| Fecha:2017| Clase:serie| Idioma:Castellano| Temporada:Temporada 1| id:|
 Name:| url:| Fecha:2017| Clase:serie| Idioma:Castellano| Temporada:Temporada 1| id:|
